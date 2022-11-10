@@ -21,7 +21,7 @@ document.getElementById("email").addEventListener("keyup", allow);
 document.getElementById("phone-number").addEventListener("keyup", allow);
 document.getElementById("message").addEventListener("keyup", allow);
 document.getElementById("date-appointment").addEventListener("input", allow);
-document.getElementById("captcha").value;
+
 
 
 contactUsSubmit.addEventListener("click", async e =>{
